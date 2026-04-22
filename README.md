@@ -182,4 +182,4 @@ Las pruebas se realizaron con Postman, validando:
 
 ## 👨‍💻 Autor
 
-Desarrollado por Joel Cauich
+Desarrollado por Ing. Joel Cauich
