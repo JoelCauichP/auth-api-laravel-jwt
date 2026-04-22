@@ -20,7 +20,7 @@ Incluye registro, inicio de sesión, manejo de tokens, rutas protegidas y contro
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/auth-api-laravel-jwt.git
+git clone https://github.com/JoelCauichP/auth-api-laravel-jwt.git
 cd auth-api-laravel-jwt
 ```
 
